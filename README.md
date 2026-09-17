@@ -1,14 +1,17 @@
 # 👋 Hola, soy Mauricio Timana
 
-### 📊 Estudiante de Estadística | Universidad Nacional de Colombia - Sede Medellín
+### 📊 Estudiante de Estadística | Tecnólogo en Análisis y Desarrollo de Software
 
 ---
 
 ### 🎯 Sobre mí
 
-Soy estudiante de pregrado en **Estadística** en la **Universidad Nacional de Colombia, Sede Medellín**, con un fuerte interés en el análisis de datos, la inteligencia artificial y el desarrollo de software. Me apasiona aplicar métodos estadísticos y computacionales para resolver problemas reales, y actualmente estoy ampliando mis habilidades en programación y ciencia de datos.
+Soy **Tecnólogo en Análisis y Desarrollo de Software** egresado del **SENA**, y actualmente estudiante de pregrado en **Estadística** en la **Universidad Nacional de Colombia, Sede Medellín**. Combino mi formación técnica en desarrollo de software con una sólida base estadística para abordar problemas de análisis de datos, inteligencia artificial y optimización.
 
-- 🎓 Cursando materias como: Análisis de Regresión, Procesos Estocásticos, Introducción a Redes Neuronales, Fundamentos de Matemáticas y Programación en Lenguajes Estadísticos.
+- 🎓 **Formación académica:**
+  - Tecnólogo en Análisis y Desarrollo de Software – SENA
+  - Estudiante de Estadística – Universidad Nacional de Colombia, Sede Medellín
+- 📚 Cursando materias como: Análisis de Regresión, Procesos Estocásticos, Introducción a Redes Neuronales, Fundamentos de Matemáticas y Programación en Lenguajes Estadísticos.
 - 🌱 Aprendiendo actualmente: **Python** y **R Studio**.
 - ⚽ En mi tiempo libre disfruto jugar **fútbol sala**.
 - 📫 Contacto: **mtimanag@unal.edu.co**
